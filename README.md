@@ -9,9 +9,9 @@ The notebook follows the below structure:
   * Data Preparation
 
 - Data Analysis // Supervised Machine Learning Techniques:
-  * Model 1: Linear Support Vector Regression (SVR)
+  * Model 1: Linear Support Vector Regression (Linear SVR)
   * Plotting Results / Evaluation on training set
-  * Model 2: Polynomial Support Vector Regression (SVR)
+  * Model 2: Polynomial Support Vector Regression (Polynomial SVR)
   * Model 3: Random Forest
      
 - Valuation of the analysis
