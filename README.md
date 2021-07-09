@@ -1,6 +1,6 @@
 # Song popularity score prediction
 
-Using Regression to predict the popularity score of a song using the Spotify data.
+Using Regression methods to predict the popularity score of a song using the Spotify data.
 
 The notebook follows the below structure:
 - Data Handling
